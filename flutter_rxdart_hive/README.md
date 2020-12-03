@@ -2,15 +2,16 @@
 
 Flutter Example Application for Learning -> Focus on RxDart and Hive
 
-## Getting Started
+## About this Application
 
-This project is a starting point for a Flutter application.
+   This application was originally requested by a user on Reddit. The app itself is quite simple. It allows a user to create,
+   edit, delete todos and store them in the Hive data store. So you can manipulate them, close the app, and when pulling it back up;
+   the todos should all load without a problem.
 
-A few resources to get you started if this is your first Flutter project:
+   Focuses: RxDart and Hive
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Running this App
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   This needs to be tested more thoroughly, but I believe cloning the main repo should suffice for now, CD into this directory and then simply install the dependencies and run the application.
+   I will work on creating submodules within Github in the future so you can clone just one application at a time.
+  
